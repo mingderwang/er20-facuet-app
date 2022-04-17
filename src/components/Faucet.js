@@ -35,7 +35,7 @@ const Faucet = (props) => {
   }
     return (
         <div>
-        <Card style={{background: "rgba(227, 104, 222, 0.71)"}}>
+        <Card style={{background: "#33E8FF"}}>
         <Card.Body>
         <Card.Subtitle>recieve faucet ERC20 to your wallet
         </Card.Subtitle><br></br>

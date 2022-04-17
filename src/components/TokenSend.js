@@ -27,7 +27,7 @@ const TokenSend = (props) => {
   }
 }
     return (
-        <Card style={{background: "rgba(227, 104, 222, 0.71)"}}>
+        <Card style={{background: "gray"}}>
         <Card.Body>
         <Card.Subtitle> send faucet to an address
         </Card.Subtitle>
